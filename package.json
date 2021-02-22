@@ -1,5 +1,5 @@
 {
-  "name": "termux-bot-wa",
+  "name": "SadBOT",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "FarhanXCo",
+  "author": "MichaelAG",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -49,10 +49,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fxc7/termux-bot-wa.git"
+    "url": "git+https://github.com/michaelagam/SadBOT.git"
   },
   "bugs": {
-    "url": "https://github.com/Fxc7/termux-bot-wa/issues"
+    "url": "https://github.com/michaelagam/SadBOT/issues"
   },
   "homepage": "https://github.com/Fxc7/termux-bot-wa#readme"
 }
