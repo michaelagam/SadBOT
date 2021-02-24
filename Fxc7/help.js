@@ -1,15 +1,13 @@
 // menu fitur bot
 const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
 	return `
-	
-\`\`\`Follow My Instagram\`\`\`
-${instagram}
+
 
 \`\`\`SUBSCRIBE😁\`\`\`
 ${yt}
 
 \`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
+https://chat.whatsapp.com/HN6Hgv8oRegG1GOTUE5HjU
 
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
@@ -73,21 +71,21 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┴
 │➻ *${prefix}quotemaker tx/wtrmk/tema*
 │➻ *${prefix}nulis nama/kelas/text*
-│➻ *${prefix}croman FXC7 dan Friend*
-│➻ *${prefix}slide Fxc7 BOT WA*
+│➻ *${prefix}croman SadBOT dan Friend*
+│➻ *${prefix}slide Sad BOT WA*
 ├───────────────────
 │➻ *${prefix}tp 1 - 162*
 │➻ *${prefix}ep 1 - 216*
-│➻ *${prefix}tahta FXC7*
-│➻ *${prefix}cglass FXC7*
-│➻ *${prefix}cstyle FXC7*
-│➻ *${prefix}cgame FXC7*
-│➻ *${prefix}clove FXC7*
-│➻ *${prefix}cparty FXC7*
-│➻ *${prefix}csky FXC7*
+│➻ *${prefix}tahta Sad*
+│➻ *${prefix}cglass Sad*
+│➻ *${prefix}cstyle Sad*
+│➻ *${prefix}cgame Sad*
+│➻ *${prefix}clove Sad*
+│➻ *${prefix}cparty Sad*
+│➻ *${prefix}csky Sad*
 │➻ *${prefix}tts id Haii*
-│➻ *${prefix}ttp Fxc7*
-│➻ *${prefix}cpaper Fxc7*
+│➻ *${prefix}ttp Sad*
+│➻ *${prefix}cpaper Sad*
 ├───────────────────
 │➻ *${prefix}stiker*
 │➻ *${prefix}gifstiker*
